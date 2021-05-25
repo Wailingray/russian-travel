@@ -8,4 +8,9 @@
   letter-spacing: 0em;
   text-align: left;
   color: white;
+  transition: .2s linear;
+}
+
+.place__link:hover {
+  opacity: 80%;
 }

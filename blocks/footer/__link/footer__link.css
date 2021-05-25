@@ -9,4 +9,10 @@
   text-align: left;
   color: white;
   text-decoration: none;
+  transition: .2s linear;
+}
+
+
+.footer__link:hover {
+  opacity: 80%;
 }
