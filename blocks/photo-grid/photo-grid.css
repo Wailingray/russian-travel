@@ -1,6 +1,10 @@
 .photo-grid {
   padding-top: 92px;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min-content, 284px));
+  grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
   gap: 16px;
+  justify-content: center;
+  align-content: center;
 }
+
+
