@@ -12,3 +12,9 @@
   width: 720px;
   min-height: 200px;
 }
+
+@media screen and (max-width: 320px) {
+  .lead__title {
+    padding-bottom: 16px;
+  }
+}
