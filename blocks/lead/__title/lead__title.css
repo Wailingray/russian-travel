@@ -13,7 +13,7 @@
   min-height: 200px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .lead__title {
     padding-bottom: 16px;
   }
