@@ -9,6 +9,13 @@
   justify-content: flex-start;
   gap: 18px;
 }
+/*Брейкпоинт обеспечивающий плавный переход ссылкам из строки в ряд*/
+@media screen and (max-width: 767px) {
+  .footer__links {
+    gap: 32px;
+    justify-content: space-around;
+  }
+}
 
 @media screen and (max-width: 425px) {
   .footer__links {
