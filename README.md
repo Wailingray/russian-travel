@@ -25,5 +25,6 @@
 	2. CC3(Grid, Flexbox).  
 
 ## Ссылка
-Да начнётся [путешествие](https://wailingray.github.io/russian-travel/)
+Да начнётся [путешествие!](https://wailingray.github.io/russian-travel/)
+
 ![Иллюстрация к проекту](https://github.com/Wailingray/russian-travel/blob/master/images/cover-trains.jpg)	
