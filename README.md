@@ -22,7 +22,7 @@
 
 ## Технологии
 	1. HTML5(Медиазапросы, разнообразие тегов)
-	2. CC3(Grid, Flexbox).  
+	2. CSS3(Grid, Flexbox).  
 
 ## Ссылка
 Да начнётся [путешествие!](https://wailingray.github.io/russian-travel/)
