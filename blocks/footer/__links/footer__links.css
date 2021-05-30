@@ -9,10 +9,10 @@
   justify-content: flex-start;
   gap: 18px;
 }
-/*Брейкпоинт обеспечивающий плавный переход ссылкам из строки в ряд*/
-@media screen and (max-width: 767px) {
+/*Брейкпоинт обеспечивающий плавный переход ссылкам из ряда в колонку*/
+@media screen and (min-width: 426px) and (max-width: 767px) {
   .footer__links {
-    gap: 32px;
+    align-self: center;
     justify-content: space-around;
   }
 }
