@@ -8,4 +8,6 @@
   text-align: left;
   color: white;
   margin-bottom: 33px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

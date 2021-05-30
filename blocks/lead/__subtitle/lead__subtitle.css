@@ -9,6 +9,8 @@
   color: white;
   max-width: 640px;
   padding-bottom: 64px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 @media screen and (max-width: 1279px) {

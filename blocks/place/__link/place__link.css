@@ -8,6 +8,9 @@
   text-align: left;
   color: white;
   transition: 0.3s linear;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 .place__link:hover {

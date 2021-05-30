@@ -7,7 +7,9 @@
   line-height: 1.06;
   text-align: left;
   color: white;
-
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 1023px) {
