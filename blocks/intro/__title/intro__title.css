@@ -19,3 +19,9 @@
     line-height: 1.09;
   }
 }
+
+@media screen and (max-width: 450px) {
+  .intro__title {
+    max-width: 250px ;   /* Обеспечивает двустрочную запись заголовка на экранах шириной до 450px*/
+  }
+}
