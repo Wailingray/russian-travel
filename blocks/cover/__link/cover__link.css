@@ -6,9 +6,3 @@
   text-decoration: none;
   gap: 32px;
 }
-
-@media screen and (max-width: 767px) {
-  .cover__link {
-    gap: 16px;
-  }
-}
